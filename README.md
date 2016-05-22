@@ -11,7 +11,7 @@ Antes de iniciar la fase de desarrollo del aplicativo SICITEM se requiere realiz
 
 Para esto entonces, cumpliendo con los mejores estandares de uso y en pro de garantizar la estabilidad y confiabilidad del producto la Infraestructura estara compuesta de la siguiente manera:
 
-Servidor: Ubuntu 16.04 LTS x86_64
+Servidor: Ubuntu 16.04 LTS x86_64 con todas las actualizaciones hasta la fecha.
 Entorno de Programacion Utilizado:
 
 	-HTML
@@ -21,6 +21,15 @@ Entorno de Programacion Utilizado:
 
 Proyecto GIT: https://github.com/darkalexve/proyecto_iuta204A3
 
+Instalacion de Dependencias:
+
+apt-get install apache2 php libapache2-mod-php php-mcrypt php-mysql curl software-properties-common
+
+apt-key adv --recv-keys --keyserver hkp://keyserver.ubuntu.com:80 0xF1656F24C74CD1D8
+add-apt-repository 'deb [arch=amd64,i386] http://mirror.edatel.net.co/mariadb/repo/10.1/ubuntu xenial main'
+
+apt-get update
+apt-get install mariadb-server
 
 
 
