@@ -21,7 +21,7 @@
 		<td rowspan=2>
 		<form action="validar.php" method="post">
 		
-		<h2 style="color: #0000FF; align="center" ">Inicio de sesión</h2>
+		<h5 style="color: #0000FF; align="center" ">Inicio de sesión</h5>
 		<table border="0" align="center">
 
 		<tr><td><label style="font-size: 14pt"><b>Correo: </b></label></td>
