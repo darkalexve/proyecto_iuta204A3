@@ -12,15 +12,15 @@
 
 	<center>
 
-	<img src="image/sicitem.png" alt="Sicitem Logo" style="width:500px;height:300px;">
-	<h2 style="color: #0000FF; ">Inicio de sesión</h2>
+	<img src="images/sicitem.png" alt="Sicitem Logo" style="width:500px;height:300px;">
 		<center><div class="Ingreso">
-
+			<div class="box">
 	<table border="0" align="center" valign="middle">
 		<tr>
 		<td rowspan=2>
 		<form action="validar.php" method="post">
-		<div class="box">
+		
+		<h2 style="color: #0000FF; ">Inicio de sesión</h2>
 		<table border="0">
 
 		<tr><td><label style="font-size: 14pt"><b>Correo: </b></label></td>
