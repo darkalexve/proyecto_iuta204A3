@@ -6,9 +6,9 @@
 		<link rel="stylesheet" href="bootstrap/css/bootstrap.css">
 		<link rel="stylesheet" href="bootstrap/css/bootstrap-responsive.css">
 		<link rel="stylesheet" type="text/css" href="estilos/estilos.css">
-	<title>Proyecto academias</title>
+	<title>SICITEM | Sistema de Control e Inventario de Telefonia Movil</title>
 </head>
-<body background="images/golf.jpg" style="background-attachment: fixed" >
+<body background="images/front-login/fondo.jpg" style="background-attachment: fixed" >
 	<center><div class="tit"><h2 style="color: #0000FF; ">Inicio de sesión</h2>
 		<center><div class="Ingreso">
 
