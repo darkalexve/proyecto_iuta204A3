@@ -11,10 +11,12 @@ body{
 }
 
 .box{
-    width: 600px;
-    height: 400px;
+    width: 400px;
+    height: 800px;
     background-color: white;
     border: solid 1px silver;
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
 }
 
 header{
