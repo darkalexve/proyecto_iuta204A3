@@ -13,8 +13,9 @@
 	<center>
 	<div class="box">
 	<img src="images/sicitem.png" alt="Sicitem Logo" style="width:500px;height:300px;" align="center">
-	<h3>Sistema de control e Inventario de Telefonia Movil</h3>
+
 		<center><div class="Ingreso">
+			<h3>Sistema de control e Inventario de Telefonia Movil</h3>
 
 	<table border="0" align="center" valign="middle">
 		<tr>
