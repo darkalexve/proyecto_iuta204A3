@@ -11,13 +11,14 @@ Antes de iniciar la fase de desarrollo del aplicativo SICITEM se requiere realiz
 
 Para esto entonces, cumpliendo con los mejores estandares de uso y en pro de garantizar la estabilidad y confiabilidad del producto la Infraestructura estara compuesta de la siguiente manera:
 
-Servidor: Ubuntu 16.04 LTS x86_64 con todas las actualizaciones hasta la fecha.
+Servidor: Ubuntu 14.04 LTS x86_64 con todas las actualizaciones hasta la fecha.
 Entorno de Programacion Utilizado:
 
 	-HTML
-	-PHP
-	-MariaDB
+	-PHP5.6
+	-MariaDB10.1
 	-AngularJS
+	-JQuery
 
 Proyecto GIT: https://github.com/darkalexve/proyecto_iuta204A3
 
