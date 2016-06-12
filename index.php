@@ -16,8 +16,7 @@
 
 		<center><div class="Ingreso">
 			<h6>Sistema de control e Inventario de Telefonia Movil</h6>
-
-	<table border="0" align="center" valign="middle">
+	<table border="0" align="center">
 		<tr>
 		<td rowspan=2>
 		<form action="validar.php" method="post">
