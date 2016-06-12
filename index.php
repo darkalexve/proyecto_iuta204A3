@@ -17,11 +17,10 @@
 		<center><div class="Ingreso">
 			<h6>Sistema de control e Inventario de Telefonia Movil</h6>
 	<table border="0" align="center">
-		<tr>
 		<td rowspan=2>
 		<form action="validar.php" method="post">
 		
-		<h5 style="color: #0000FF; align="center" ">Inicio de sesión</h5>
+		<h5 style="color: #0000FF;">Inicio de sesión</h5>
 		<table border="0" align="center">
 
 		<tr><td><label style="font-size: 14pt"><b>Correo: </b></label></td>
@@ -29,7 +28,7 @@
 		<tr><td><label style="font-size: 14pt"><b>Contraseña: </b></label></td>
 			<td witdh=80><input style="border-radius:15px;" type="password" name="pass"></td></tr>
 		<tr><td></td>
-			<td width=80 align=center><input class="btn btn-primary" type="submit" value="Aceptar"></td>
+			<td width=80 align=center><input class="btn btn-primary" type="submit" value="Ingresar"></td>
 			</tr></tr></table></div>
 		</form>
 <br>
