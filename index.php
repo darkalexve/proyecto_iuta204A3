@@ -11,10 +11,10 @@
 </head>
 
 	<center>
-
+	<div class="box">
 	<img src="images/sicitem.png" alt="Sicitem Logo" style="width:500px;height:300px;">
 		<center><div class="Ingreso">
-			<div class="box">
+
 	<table border="0" align="center" valign="middle">
 		<tr>
 		<td rowspan=2>
