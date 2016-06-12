@@ -12,7 +12,7 @@
 
 	<center>
 	<div class="box">
-	<img src="images/sicitem.png" alt="Sicitem Logo" style="width:500px;height:300px;">
+	<img src="images/sicitem.png" alt="Sicitem Logo" style="width:500px;height:300px;" align="center">
 		<center><div class="Ingreso">
 
 	<table border="0" align="center" valign="middle">
@@ -21,7 +21,7 @@
 		<form action="validar.php" method="post">
 		
 		<h2 style="color: #0000FF; ">Inicio de sesión</h2>
-		<table border="0">
+		<table border="0" align="center">
 
 		<tr><td><label style="font-size: 14pt"><b>Correo: </b></label></td>
 			<td width=80> <input class="form-group has-success" style="border-radius:15px;" type="text" name="mail"></td></tr>
