@@ -10,14 +10,17 @@
 	<title>SICITEM | Sistema de Control e Inventario de Telefonia Movil</title>
 </head>
 
-	<center><div class="tit"><h2 style="color: #0000FF; ">Inicio de sesión</h2>
+	<center>
+
+	<img src="image/sicitem.png" alt="Sicitem Logo" style="width:500px;height:300px;">
+	<h2 style="color: #0000FF; ">Inicio de sesión</h2>
 		<center><div class="Ingreso">
 
 	<table border="0" align="center" valign="middle">
 		<tr>
 		<td rowspan=2>
 		<form action="validar.php" method="post">
-
+		<div class="box">
 		<table border="0">
 
 		<tr><td><label style="font-size: 14pt"><b>Correo: </b></label></td>
@@ -26,7 +29,7 @@
 			<td witdh=80><input style="border-radius:15px;" type="password" name="pass"></td></tr>
 		<tr><td></td>
 			<td width=80 align=center><input class="btn btn-primary" type="submit" value="Aceptar"></td>
-			</tr></tr></table>
+			</tr></tr></table></div>
 		</form>
 <br>
 
