@@ -13,10 +13,11 @@ body{
 .box{
     width: 400px;
     height: 500px;
-    background-color: white;
-    border: solid 1px silver;
-    opacity: 0.2;
-    filter: alpha(opacity=20); /* For IE8 and earlier */
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
 }
 
 header{
