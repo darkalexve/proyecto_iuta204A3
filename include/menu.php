@@ -6,14 +6,24 @@
 	  <div class="nav-collapse">
 		<ul class="nav">
 			<li class=""><a href="index2.php">Principal</a></li>
+				<li class="dropdown">
+				<a data-toggle="dropdown" class="dropdown-toggle" href="#">Consultas<b class="caret"></b></a>
+				<ul class="dropdown-menu">
+					<li class="nav-header">Seleccione una Bitacora:</li>
+					<li class="divider"></li>
+					<li><a href="#">Bitacora de Actividades</a></li>
+					<li><a href="#">Bitacora de Inicidencias</a></li>
+				<a data-toggle="dropdown" class="dropdown-toggle" href="#"><b class="caret"></b></a>
+					
+				</ul>
+			</li> 
 	
 		</ul>
 		<form action="#" class="navbar-search form-inline" style="margin-top:6px">
 		
 		</form>
 		<ul class="nav pull-right">
-				<li><a href="">Bienvenido <strong><?php echo $_SESSION['user'];?></strong> </a></li>
-			  <li><a href="desconectar.php"> Cerrar Cesión </a></li>			 
+			  <li><a href="index.php"> Cerrar Cesión </a></li>			 
 		</ul>
 	  </div><!-- /.nav-collapse -->
 	</div>

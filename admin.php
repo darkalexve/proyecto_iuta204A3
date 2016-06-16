@@ -162,7 +162,7 @@ if (@!$_SESSION['user']) {
 <footer class="footer">
 
 <hr class="soften"/>
-<p>&copy; Copyright Joseph Godoy <br/><br/></p>
+<p>&copy; Proyecto Diseño de Sistemas | Seccion 204A3 | Informatica <br/><br/></p>
  </footer>
 </div><!-- /container -->
 
