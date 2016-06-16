@@ -8,7 +8,7 @@ if (@!$_SESSION['user']) {
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Proyecto Academias</title>
+    <title>SICITEM | Zona Administrativa</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="Joseph Godoy">
@@ -65,7 +65,7 @@ if (@!$_SESSION['user']) {
 		<div class="caption">
 		
 <!--///////////////////////////////////////////////////Empieza cuerpo del documento interno////////////////////////////////////////////-->
-		<h2> Administración de usuarios registrados</h2>	
+		<h2> Administracion de Operarios del Sistema</h2>	
 		<div class="well well-small">
 		<hr class="soft"/>
 		<h4>Tabla de Usuarios</h4>
