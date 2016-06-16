@@ -68,7 +68,7 @@ if (@!$_SESSION['user']) {
 		<h2> Administracion de Operarios del Sistema</h2>	
 		<div class="well well-small">
 		<hr class="soft"/>
-		<h4>Tabla de Usuarios</h4>
+		<h4>Tabla de Operarios</h4>
 		<div class="row-fluid">
 		
 
