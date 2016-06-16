@@ -10,7 +10,7 @@ if (@!$_SESSION['user']) {
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Proyecto Academias</title>
+    <title>SICITEM | Zona Operativa</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="Joseph Godoy">
@@ -47,9 +47,9 @@ include("include/menu.php");
 		  <div class="item active">
 			<img src="images/pascomputacion.jpg" alt="#" style="min-height:250px; min-width:100%"/>
 			<div class="carousel-caption">
-				  <h4>Comptación Básica</h4>
+				  <h4>Bienvenido</h4>
 				  <p>
-				   recuerde que en esta disciplina la práctica es la que da el dominio en el uso de las herramientas, estaremos siempre a la orden para compartir con usted experiencias y sobretodo para ayudarlo en el aprendizaje.
+				   Bienvenido al Sistema de Control e Inventario de Telefonia Movil, en el menu podras ver las opciones.
 				  </p>
 			</div>
 		  </div>
@@ -75,42 +75,42 @@ include("include/menu.php");
 	<a class="left carousel-control" href="#myCarousel" data-slide="prev">‹</a>
 	<a class="right carousel-control" href="#myCarousel" data-slide="next">›</a>
 </div>
-<h3>Todos nuestros cursos</h3>
+<h3>Los Modelos mas pedidos</h3>
 <div class="row" style="text-align:center">
 			<div class="span2">
 				<div class="well well-small">
-					<h4>Algebra Lineal</h4>
+					<h4>Samsung Galaxy S4</h4>
 					<a href="al.php"><small>Ver detalles</small></a>
 				</div>
 			</div>
 			
 			<div class="span2">
 				<div class="well well-small">
-					<h4>Topografía Elemental</h4>
+					<h4>Huawei P7</h4>
 					<a href="te.php"><small>Ver detalles</small></a>
 				</div>
 			</div>
 			<div class="span2">
 				<div class="well well-small">
-					<h4>Fundamentos Informáticos</h4>
+					<h4>LG Optimus L</h4>
 					<a href="fi.php"><small>Ver detalles</small></a>
 				</div>
 			</div>
 			<div class="span2">
 				<div class="well well-small">
-					<h4>Fundamentos de programación</h4>
+					<h4>Motorola Moto G3</h4>
 					<a href="fp.php"><small>Ver detalles</small></a>
 				</div>
 			</div>
 			<div class="span2">
 				<div class="well well-small">
-					<h4>Fundamentos Matemáticos</h4>
+					<h4>Huawei Honor 2</h4>
 					<a href="fm.php"><small>Ver detalles</small></a>
 				</div>
 			</div>
 			<div class="span2">
 				<div class="well well-small">
-					<h4>Matemáticas Discretas</h4>
+					<h4>ZTE Blade X</h4>
 					<a href="md.php"><small>Ver detalles</small></a>
 				</div>
 			</div>
